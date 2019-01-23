@@ -1,16 +1,12 @@
 
-#mainTitle {
-  background-image: url('/assets/images/cinema-food-movie-theater-33129.jpg');
-}
-
-
 .jumbotron {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  font-family: 'Bangers', cursive;
 }
 
-.popCorn {
-  margin-left: 50%;
-  margin-right: 80%;
+h1 {
+  font-size: 80px;
+}
+
+.left-side{
+  border: 1px solid black;
 }
