@@ -1,12 +1,42 @@
 
+ body {
+  background:#2E9CE6;
+  
+  
+}
+
 .jumbotron {
+  background-color: black;
   font-family: 'Bangers', cursive;
+}
+
+.text-center {
+  background-color: yellow;
+  padding: 13px;
 }
 
 h1 {
   font-size: 80px;
 }
 
-.left-side{
-  border: 1px solid black;
-}
+.container {
+  display: grid;
+  grid-template-columns: 50% auto; 
+  padding: 2em;
+  margin-left: 14em;
+  
+ }
+
+ .col-lg-6 {
+  padding: .4em 1.3em;
+ }
+
+ .left-side{
+  background: #57B3F1;
+  
+} 
+
+.right-side{
+  background: #2885C4;
+  
+} 
